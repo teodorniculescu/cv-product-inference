@@ -1,0 +1,8 @@
+# TODO
+
+BUCKET_PATH = eu4food-dataset/Images
+## try this command in order to get paths to files gcloud storage ls gs://$BUCKET_PATH
+## add to github
+## try on wsl UBUNTU
+## add key wsl ubuntu
+## add setup
